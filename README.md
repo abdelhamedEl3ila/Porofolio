@@ -1,6 +1,11 @@
 # Data Analyst|Business Intelligence
+## Profile:
+As a highly motivated and detail-oriented data analyst, I aim to leverage my strong analytical skills, technical
+proficiency, and passion for data-driven **decision-making** to extract actionable insights and support organizational
+goals. I am committed to continuous learning and utilizing advanced data analysis tools and techniques to contribute
+to the success of a dynamic team within a forward-thinking organization.
 
-### Technical Skills:  
+## Technical Skills:  
 •  Advanced SQL Server, Data Warehouse, ETL (SSIS), SSAS, SSRS 
 
 •  Visualizaon Tools (Power Bi, Excel, Tableau) 
@@ -13,7 +18,7 @@
 
 •  Statistcs and Probability
 
-###  Interpersonal Skills:
+##  Interpersonal Skills:
 •  Presentation Skills
 
 •  Communication Skills
