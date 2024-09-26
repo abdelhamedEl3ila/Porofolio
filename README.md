@@ -42,10 +42,10 @@ powerful regression model, specifically Random Forest, the model achieved high a
 
 • Growth Analysis using **SQl , Python , Tableau** |365 Data Science  [Link Certificate ](https://learn.365datascience.com/certificates/CC-1D955D39BA/)
 
-•  Web Scrapping with Python   [Link Certificate ]([https://learn.365datascience.com/certificates/CC-1D955D39BA/](https://www.mygreatlearning.com/certificate/VDCODTEM))
+•  Web Scrapping with Python         [Link Certificate ]([https://learn.365datascience.com/certificates/CC-1D955D39BA/](https://www.mygreatlearning.com/certificate/VDCODTEM))
 
 
 ## Languages 
-Arabic |Nave 
+Arabic |Native 
 
 English |Professional 
