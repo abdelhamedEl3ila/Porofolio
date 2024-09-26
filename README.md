@@ -19,8 +19,8 @@ Sales Dashboard| SQL Server &  Power BI                                         
 Led the development of a Sales Dashboard using Power BI, employing Direct Query from SQL Server to ensure real-me data access. Created a robust data model within Power BI to integrate and relate data from mulple sources. The dashboard featured key secons for an overview, sales analysis, and inventory management, designed to enhance decision-making, sales tracking, and inventory management. The project included custom visualizaons, interacve lters, and was opmized for real-me insigh
 ## CERTIFICATIONS   
 •  Power bi |365 Data science Link  
-•  Data science and ML | Machinfy Academy  Link  • 
-Growth Analysis using SQl , Python , Tableau |365 Data Science  Link     
+•  Data science and ML | Machinfy Academy  Link 
+• Growth Analysis using SQl , Python , Tableau |365 Data Science  Link     
 •  Web Scrapping with Python  Link    
 ## Languages 
 Arabic |Nave 
