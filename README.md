@@ -8,7 +8,7 @@ to the success of a dynamic team within a forward-thinking organization.
 ## Technical Skills:  
 •  Advanced SQL Server, Data Warehouse, ETL (SSIS), SSAS, SSRS 
 
-•  Visualizaon Tools (Power Bi, Excel, Tableau) 
+•  Visualization Tools (Power Bi, Excel, Tableau) 
 
 •  Advanced Excel (Pivot table, advanced Funcons , Macros) 
 
@@ -37,7 +37,7 @@ Elshorouk Academy |Minor in Computer Science |Good                              
 ## Work Experience
  Teacher Assistant| Machinfy Academy 
 ## Projects
-#### Online Examinaon System | SQL Server & SSIS & SSRS & Power Bi                                
+#### Online Examinatioon System | SQL Server & SSIS & SSRS & Power Bi                                
 [Link Project](https://github.com/abdelhamedEl3ila/Online-Examination-System-)
 
 
@@ -52,7 +52,7 @@ To provide a comprehensive analysis of a superstore’s performance through a vi
 [Link Project](https://shaedu-my.sharepoint.com/personal/319190671_sha_edu_eg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F319190671%5Fsha%5Fedu%5Feg%2FDocuments%2FSalesDashboard0%2Epbix&parent=%2Fpersonal%2F319190671%5Fsha%5Fedu%5Feg%2FDocuments&ga=1)
 
 
-Led the development of a Sales Dashboard using Power BI, employing Direct Query from SQL Server to ensure real-me data access. Created a robust data model within Power BI to integrate and relate data from mulple sources. The dashboard featured key secons for an overview, sales analysis, and inventory management, designed to enhance decision-making, sales tracking, and inventory management. The project included custom visualizaons, interacve lters, and was opmized for real-me insigh
+Led the development of a Sales Dashboard using Power BI, employing Direct Query from SQL Server to ensure real-me data access. Created a robust data model within Power BI to integrate and relate data from mulple sources. The dashboard featured key secons for an overview, sales analysis, and inventory management, designed to enhance decision-making, sales tracking, and inventory management. The project included custom visualizaons, interactive lters, and was opmized for real-me insigh
 #### Predicting Used Car Prices using Regression Analysis 
 [Python Link Project](https://github.com/abdelhamedEl3ila/car-used-price-prediction-Data-science-project-)
 
@@ -68,12 +68,17 @@ powerful regression model, specifically Random Forest, the model achieved high a
 [Link Certificate ](https://drive.google.com/file/d/1-UspQFN_Kn95VQx6sTg3nV_Bajv63G2d/view)
 
 • Growth Analysis using **SQl , Python , Tableau** |365 Data Science
+
 [Link Certificate ](https://learn.365datascience.com/certificates/CC-1D955D39BA/)
 
 •  Web Scrapping with Python   
+
 [Link Certificate ](https://www.mygreatlearning.com/certificate/VDCODTEM)
-
-
 ## Languages 
 Arabic |Native 
+
 English |Professional 
+
+
+
+
