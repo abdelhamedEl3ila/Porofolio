@@ -49,7 +49,7 @@ The goal of the project is to create an examinaon system that enables student
 
 To provide a comprehensive analysis of a superstore’s performance through a visually engaging and data-driven dashboard, facilitang beer decision-making for stakeholders. 
 #### Sales Dashboard| SQL Server &  Power BI
-[Link Project](https://shaedu-my.sharepoint.com/personal/319190671_sha_edu_eg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F319190671%5Fsha%5Fedu%5Feg%2FDocuments%2FSalesDashboard%2Epbix&parent=%2Fpersonal%2F319190671%5Fsha%5Fedu%5Feg%2FDocuments&ga=1)
+[Link Project](https://shaedu-my.sharepoint.com/personal/319190671_sha_edu_eg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F319190671%5Fsha%5Fedu%5Feg%2FDocuments%2FSalesDashboard0%2Epbix&parent=%2Fpersonal%2F319190671%5Fsha%5Fedu%5Feg%2FDocuments&ga=1)
 
 
 Led the development of a Sales Dashboard using Power BI, employing Direct Query from SQL Server to ensure real-me data access. Created a robust data model within Power BI to integrate and relate data from mulple sources. The dashboard featured key secons for an overview, sales analysis, and inventory management, designed to enhance decision-making, sales tracking, and inventory management. The project included custom visualizaons, interacve lters, and was opmized for real-me insigh
@@ -71,7 +71,7 @@ powerful regression model, specifically Random Forest, the model achieved high a
 [Link Certificate ](https://learn.365datascience.com/certificates/CC-1D955D39BA/)
 
 •  Web Scrapping with Python   
-[Link Certificate ]([https://learn.365datascience.com/certificates/CC-1D955D39BA/](https://www.mygreatlearning.com/certificate/VDCODTEM)
+[Link Certificate ](https://www.mygreatlearning.com/certificate/VDCODTEM)
 
 
 ## Languages 
