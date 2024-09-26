@@ -40,11 +40,9 @@ powerful regression model, specifically Random Forest, the model achieved high a
 •  Data science and ML | Machinfy Academy
 [Link Certificate ](https://drive.google.com/file/d/1-UspQFN_Kn95VQx6sTg3nV_Bajv63G2d/view)
 
-• Growth Analysis using **SQl , Python , Tableau** |365 Data Science  
-[Link Certificate ](https://learn.365datascience.com/certificates/CC-1D955D39BA/)
+• Growth Analysis using **SQl , Python , Tableau** |365 Data Science  [Link Certificate ](https://learn.365datascience.com/certificates/CC-1D955D39BA/)
 
-•  Web Scrapping with Python   
-[Link Certificate ]([https://learn.365datascience.com/certificates/CC-1D955D39BA/](https://www.mygreatlearning.com/certificate/VDCODTEM))
+•  Web Scrapping with Python   [Link Certificate ]([https://learn.365datascience.com/certificates/CC-1D955D39BA/](https://www.mygreatlearning.com/certificate/VDCODTEM))
 
 
 ## Languages 
