@@ -1,9 +1,20 @@
 # Data Analyst|Business Intelligence
 
-#### Technical Skills:  
-Advanced SQL Server, Data Warehouse, ETL (SSIS), SSAS, SSRS  •  Visualizaon Tools (Power Bi, Excel, Tableau)  •  Advanced Excel (Pivot table, advanced Funcons , Macros) •  Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly ,Sklearn, Machine learning models) •  Knowledge Cloud (Azure) , Basics Big Data •  Stascs and Probability
+### Technical Skills:  
+•  Advanced SQL Server, Data Warehouse, ETL (SSIS), SSAS, SSRS 
+•  Visualizaon Tools (Power Bi, Excel, Tableau) 
+•  Advanced Excel (Pivot table, advanced Funcons , Macros) 
+•  Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly ,Sklearn, Machine learning models) 
+•  Knowledge Cloud (Azure) , Basics Big Data 
+•  Statistcs and Probability
+###  Interpersonal Skills:
+•  Presentation Skills
+•  Communication Skills
+•  Leadership
+•  Problem Solving
+•  Time Management  
 ## Training Diploma 
-Intensive Training Diploma **(ITI)** Informaon Technology Instute |(MCIT) Ministry of Communicaons And  Informaon Technology |BI Track |May2024-Sep2024
+Intensive Training Diploma **(ITI)** Information Technology Instute |(MCIT) Ministry of Communications And  Information Technology |BI Track |May2024-Sep2024
 ## Education
 Elshorouk Academy |Minor in Computer Science |Good                                            2018-2022                                                 
 
@@ -42,7 +53,7 @@ powerful regression model, specifically Random Forest, the model achieved high a
 
 • Growth Analysis using **SQl , Python , Tableau** |365 Data Science  [Link Certificate ](https://learn.365datascience.com/certificates/CC-1D955D39BA/)
 
-•  Web Scrapping with Python         [Link Certificate ]([https://learn.365datascience.com/certificates/CC-1D955D39BA/](https://www.mygreatlearning.com/certificate/VDCODTEM))
+•  Web Scrapping with Python         [Link Certificate ]([https://learn.365datascience.com/certificates/CC-1D955D39BA/](https://www.mygreatlearning.com/certificate/VDCODTEM)
 
 
 ## Languages 
