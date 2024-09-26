@@ -2,17 +2,28 @@
 
 ### Technical Skills:  
 •  Advanced SQL Server, Data Warehouse, ETL (SSIS), SSAS, SSRS 
+
 •  Visualizaon Tools (Power Bi, Excel, Tableau) 
+
 •  Advanced Excel (Pivot table, advanced Funcons , Macros) 
+
 •  Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly ,Sklearn, Machine learning models) 
+
 •  Knowledge Cloud (Azure) , Basics Big Data 
+
 •  Statistcs and Probability
+
 ###  Interpersonal Skills:
 •  Presentation Skills
+
 •  Communication Skills
+
 •  Leadership
+
 •  Problem Solving
+
 •  Time Management  
+
 ## Training Diploma 
 Intensive Training Diploma **(ITI)** Information Technology Instute |(MCIT) Ministry of Communications And  Information Technology |BI Track |May2024-Sep2024
 ## Education
